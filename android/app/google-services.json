@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "41926301902",
+    "project_id": "tender620-4fda3",
+    "storage_bucket": "tender620-4fda3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41926301902:android:632cc7a306e3afae69d89f",
+        "android_client_info": {
+          "package_name": "com.example.tender620"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41926301902-r4n0ujjhpm545pv0isbop1m6eiqi3lg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh7P1JCSo_7i3f7qCysGF5dV3JdPxEu1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41926301902-r4n0ujjhpm545pv0isbop1m6eiqi3lg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
